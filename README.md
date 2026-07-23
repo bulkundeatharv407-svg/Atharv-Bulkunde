@@ -52,3 +52,80 @@ My Resume : <a href="https://drive.google.com/file/d/1Yc1od-LKNmgSPpPWsVaQVNDsLC
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=bulkundeatharv407-svg&repo=Trust-wallet-ui-ux-design&theme=tokyonight" />
   </a>
 </p>
+## 💻 DEVELOPMENT STACK
+
+<!-- FRONTEND -->
+
+### ⬢ FRONTEND
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
+
+<!-- PROGRAMMING -->
+
+### ⬢ PROGRAMMING
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,kotlin" />
+</p>
+
+<!-- TOOLS / DEV -->
+
+### ⬢ TOOLS & DEV
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,nodejs,androidstudio,git,github,firebase,postgres" />
+</p>
+
+<!-- DESIGN -->
+
+### ⬢ DESIGN
+
+<p>
+  <img src="https://skillicons.dev/icons?i=photoshop,aftereffects,figma" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" height="48" />
+  <img src="https://img.icons8.com/color/48/canva.png" height="48"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>
+</p>
+
+## 🛠 CURRENTLY BUILDING
+
+* 🚀 QuickPoll Backend
+* 🎨 My Anime Verse
+* 🌐 Portfolio Website → cinematic experience
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>
+</p>
+
+## 🗄️ CORE LANGUAGE VAULT
+
+<p align="center">
+  <a href="https://github.com/VedantBakre/Fun-With-IOT">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=VedantBakre&repo=Fun-With-IOT&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/VedantBakre/Python-Verse">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=VedantBakre&repo=Python-Verse&theme=tokyonight" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/VedantBakre/Cpp-Verse">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=VedantBakre&repo=Cpp-Verse&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/VedantBakre/Kotlin-Playground">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=VedantBakre&repo=Kotlin-Playground&theme=tokyonight" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/VedantBakre/Java-Hub">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=VedantBakre&repo=Java-Hub&theme=tokyonight" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>
+</p>
