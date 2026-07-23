@@ -1,7 +1,4 @@
 <p align="center">
-  <img src="https://i.pinimg.com/736x/59/d6/8f/59d68fba82d17f1323f4976d17283370.jpg" />
-</p>
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:9333ea,100:020617&height=140&section=header&text=Atharv%20Bulkunde&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bulkundeatharv407-svg&label=PROFILE+VIEWS&color=a855f7&style=for-the-badge" />
@@ -12,7 +9,7 @@
   <img src="./Lofi%20Vibe.gif" width="100%" style="border-radius:15px; box-shadow:0 0 40px rgba(168,85,247,0.3);" />
 
 <h1 align="center" style="color:#ffffff; text-shadow:0 0 20px rgba(168,85,247,0.7);">
-💀 Atharv Bulkunde
+💀 Atharv Bulkunde 💀
 </h1>
 
 <h3 align="center" style="color:#c084fc;">
@@ -27,14 +24,9 @@ Developer
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>
 </p>
-## 🧠 ABOUT ME
-I am a passionate **Frontend Developer ** dedicated to crafting immersive, motion-driven digital experiences. With a strong eye for detail and a love for clean aesthetics, I specialize in building interfaces that are not only functional but feel alive.
-
-* 🌌 **Cinematic UI** — Designing depth, motion, and visual storytelling into every layout.
-* 💀 **Dark UI Systems** — Architecting elegant, high-contrast dark themes with vibrant accents.
-* ⚡ **Performance & UX** — Blending modern tech stacks with fluid micro-interactions for seamless usability.
-* 🎨 **Visual Design** — Utilizing Photoshop, After Effects, and Figma to bridge the gap between design and code.
-
+<p align="center">
+  <img src="https://i.pinimg.com/736x/59/d6/8f/59d68fba82d17f1323f4976d17283370.jpg" />
+</p>
 My Resume : <a href="https://drive.google.com/file/d/1Yc1od-LKNmgSPpPWsVaQVNDsLCkOGPOh/view?usp=sharing">ATHARV BULKUNDE.pdf</a>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>
