@@ -234,6 +234,6 @@ Languages I use most:
   <img src="https://readme-typing-svg.herokuapp.com?color=A855F7&center=true&vCenter=true&lines=Now+Playing:+LoFi+Beats;Coding+Mode:+Activated;Focus:+100%25" />
 </p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:a855f7&height=140&section=footer"/>
+  <img src="https://i.pinimg.com/736x/f8/a4/3e/f8a43e84987f93d1f17a5a839f5b15fa.jpg"/>
 </p>
 
