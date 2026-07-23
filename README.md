@@ -13,7 +13,7 @@
 </h1>
 
 <h3 align="center" style="color:#c084fc;">
-Designer X Developer
+Developer
 </h3>
 
-<p align="center"><i>"Aesthetics Matters to Me!"</i></p>
+<p align="center"><i>" Me to My Way!"</i></p>
