@@ -9,7 +9,7 @@
   <img src="./Lofi%20Vibe.gif" width="100%" style="border-radius:15px; box-shadow:0 0 40px rgba(168,85,247,0.3);" />
 
 <h1 align="center" style="color:#ffffff; text-shadow:0 0 20px rgba(168,85,247,0.7);">
-💀 VEDANT BAKRE
+💀 Atharv Bulkunde
 </h1>
 
 <h3 align="center" style="color:#c084fc;">
