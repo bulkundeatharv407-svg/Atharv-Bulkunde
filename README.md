@@ -85,7 +85,7 @@ My Resume : <a href="https://drive.google.com/file/d/1Yc1od-LKNmgSPpPWsVaQVNDsLC
 <p>
   <img src="https://skillicons.dev/icons?i=photoshop,aftereffects,figma" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" height="48" />
-  <img src="https://img.icons8.com/color/48/canva.png" height="48"/>
+  <img src="https://img.icons8.com/canva.png" height="48"/>
 </p>
 
 <p align="center">
