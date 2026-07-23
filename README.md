@@ -24,5 +24,13 @@ Developer
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>
 </p>
+I am a passionate **Frontend Developer ** dedicated to crafting immersive, motion-driven digital experiences. With a strong eye for detail and a love for clean aesthetics, I specialize in building interfaces that are not only functional but feel alive.
+
+* 🌌 **Cinematic UI** — Designing depth, motion, and visual storytelling into every layout.
+* 💀 **Dark UI Systems** — Architecting elegant, high-contrast dark themes with vibrant accents.
+* ⚡ **Performance & UX** — Blending modern tech stacks with fluid micro-interactions for seamless usability.
+* 🎨 **Visual Design** — Utilizing Photoshop, After Effects, and Figma to bridge the gap between design and code.
+
+My Resume : <a href="https://drive.google.com/file/d/1Yc1od-LKNmgSPpPWsVaQVNDsLCkOGPOh/view?usp=sharing">ATHARV BULKUNDE.pdf</a>
 
 ## 🧠 ABOUT ME
