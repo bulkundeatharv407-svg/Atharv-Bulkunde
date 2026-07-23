@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="https://i.pinimg.com/736x/59/d6/8f/59d68fba82d17f1323f4976d17283370.jpg" />
+</p>
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:9333ea,100:020617&height=140&section=header&text=Atharv%20Bulkunde&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bulkundeatharv407-svg&label=PROFILE+VIEWS&color=a855f7&style=for-the-badge" />
@@ -230,9 +233,7 @@ Languages I use most:
 <p align="center">
   <img src="./Setup.gif" width="100%" style="border-radius:15px; box-shadow:0 0 40px rgba(168,85,247,0.3);" />
 </p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=A855F7&center=true&vCenter=true&lines=Now+Playing:+LoFi+Beats;Coding+Mode:+Activated;Focus:+100%25" />
-</p>
+
 <p align="center">
   <img src="https://i.pinimg.com/736x/f8/a4/3e/f8a43e84987f93d1f17a5a839f5b15fa.jpg"/>
 </p>
