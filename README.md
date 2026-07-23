@@ -18,7 +18,7 @@ Developer
 
 <p align="center"><i>" Me to My Way!"</i></p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=a855f7&size=22&center=true&vCenter=true&width=850&speed=40&pause=1000&lines=Hey%21+I%27m+Atharv+Bulkunde+%F0%9F%91%8B;Welcome+to+My+GitHub+Page+%F0%9F%9A%80;Dark+UI+%3E+Everything+%F0%9F%92%80;Aesthetics+Matter+to+Me+%F0%9F%8E%A8;Crafting+Cinematic+UI%2FUX+%F0%9F%8E%AC" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=a855f7&size=22&center=true&vCenter=true&width=850&speed=40&pause=1000&lines=Hey%21+I%27m+Atharv+Bulkunde+%F0%9F%91%8B;Welcome+to+My+GitHub+Page+%F0%9F%9A%80;Dark+UI+%3E+Everything+%F0%9F%92%80;Me+My+Way+%F0%9F%8E%A8;Crafting+Cinematic+UI%2FUX+%F0%9F%8E%AC" />
 </p>
 
 <p align="center">
