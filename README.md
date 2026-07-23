@@ -112,19 +112,7 @@ My Resume : <a href="https://drive.google.com/file/d/1Yc1od-LKNmgSPpPWsVaQVNDsLC
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=VedantBakre&repo=Python-Verse&theme=tokyonight" />
   </a>
 </p>
-<p align="center">
-  <a href="https://github.com/VedantBakre/Cpp-Verse">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=VedantBakre&repo=Cpp-Verse&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/VedantBakre/Kotlin-Playground">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=VedantBakre&repo=Kotlin-Playground&theme=tokyonight" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/VedantBakre/Java-Hub">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=VedantBakre&repo=Java-Hub&theme=tokyonight" />
-  </a>
-</p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>
