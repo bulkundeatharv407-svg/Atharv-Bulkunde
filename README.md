@@ -138,3 +138,102 @@ My Resume : <a href="https://drive.google.com/file/d/1Yc1od-LKNmgSPpPWsVaQVNDsLC
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>
 </p>
+## 📊 LIVE SYSTEM DATA
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bulkundeatharv407-svg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=bulkundeatharv407-svg&theme=tokyonight&hide_border=true&background=00000000" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>
+</p>
+
+## 💻 LANGUAGE MATRIX
+
+Languages I use most:
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bulkundeatharv407-svg&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>
+</p>
+
+## 🐍 SYSTEM ACTIVITY
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>
+</p>
+
+## 🤝 CONNECT
+
+<p align="center">
+  <a href="https://github.com/bulkundeatharv407-svg" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-a855f7?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/atharv-bulkunde-2999012a5/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-a855f7?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+</p>
+
+<p align="center">
+  
+  <a href="https://unstop.com/u/vedanbak49009" target="_blank">
+    <img src="https://img.shields.io/badge/Unstop-ec4899?style=for-the-badge&logo=directus&logoColor=white" />
+  </a>
+ 
+  <a href="https://www.chess.com/member/vedant_bakre" target="_blank">
+    <img src="https://img.shields.io/badge/Chess.com-ec4899?style=for-the-badge&logo=chess&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>
+</p>
+
+## ⚡ FUN ZONE
+
+* 🌙 I design better at night
+* 🎬 Inspired by anime & cinematic visuals
+* 💀 Dark UI > Light UI
+* 🎧 Music + code = flow state
+
+## ⚡ SYSTEM TERMINAL
+
+```bash
+> initializing vedant.exe
+> loading modules...
+> UI_ENGINE ✔
+> MOTION_SYSTEM ✔
+> DARK_MODE ✔
+> status: READY
+```
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>
+</p>
+
+<p align="center" style="color:#a855f7; font-size:14px;">
+🎧 coding in rhythm
+</p>
+
+<p align="center">
+  <img src="./Setup.gif" width="100%" style="border-radius:15px; box-shadow:0 0 40px rgba(168,85,247,0.3);" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=A855F7&center=true&vCenter=true&lines=Now+Playing:+LoFi+Beats;Coding+Mode:+Activated;Focus:+100%25" />
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:a855f7&height=140&section=footer"/>
+</p>
+
