@@ -37,4 +37,10 @@ preview
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bulkundeatharv407-svg&" alt="bulkundeatharv407-svg" /></p>
 
 <img src="https://i.pinimg.com/1200x/dc/87/ba/dc87ba16c3650b55a7cf1f8951c03fd3.jpg">
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:9333ea,100:020617&height=140&section=header&text=Vedant%20Bakre&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VedantBakre&label=PROFILE+VIEWS&color=a855f7&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Atharvbulkunde407?label=FOLLOWERS&style=for-the-badge&color=a855f7" />
+  <img src="https://img.shields.io/github/stars/VedantBakre?label=STARS&style=for-the-badge&color=a855f7" />
+</p>
