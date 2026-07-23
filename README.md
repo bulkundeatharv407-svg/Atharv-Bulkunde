@@ -40,7 +40,7 @@ My Resume : <a href="https://drive.google.com/file/d/1Yc1od-LKNmgSPpPWsVaQVNDsLC
 
 <p align="center">
   <a href="https://github.com/bulkundeatharv407/Volunteer-Link">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=bulkundeatharv407&repo=Volunteer-Link&theme=tokyonight" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=bulkundeatharv407&repo=The-Food-Stop-&theme=tokyonight" />
   </a>
   <a href="https://github.com/bulkundeatharv/EduSphere">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=bulkundeatharv407-svg&repo=HTML&theme=tokyonight" />
