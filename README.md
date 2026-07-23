@@ -24,6 +24,7 @@ Developer
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>
 </p>
+## 🧠 ABOUT ME
 I am a passionate **Frontend Developer ** dedicated to crafting immersive, motion-driven digital experiences. With a strong eye for detail and a love for clean aesthetics, I specialize in building interfaces that are not only functional but feel alive.
 
 * 🌌 **Cinematic UI** — Designing depth, motion, and visual storytelling into every layout.
@@ -32,5 +33,22 @@ I am a passionate **Frontend Developer ** dedicated to crafting immersive, motio
 * 🎨 **Visual Design** — Utilizing Photoshop, After Effects, and Figma to bridge the gap between design and code.
 
 My Resume : <a href="https://drive.google.com/file/d/1Yc1od-LKNmgSPpPWsVaQVNDsLCkOGPOh/view?usp=sharing">ATHARV BULKUNDE.pdf</a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>
+</p>
+## 🚀 DEPLOYED SYSTEMS
 
-## 🧠 ABOUT ME
+<p align="center">
+  <a href="https://github.com/bulkundeatharv407/Volunteer-Link">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=bulkundeatharv&repo=Volunteer-Link&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/bulkundeatharv/EduSphere">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=bulkundeatharv&repo=EduSphere&theme=tokyonight" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/bulkundeatharv/Quick-Poll">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=bulkundeatharv&repo=Quick-Poll&theme=tokyonight" />
+  </a>
+</p>
