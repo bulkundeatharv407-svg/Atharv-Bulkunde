@@ -49,6 +49,6 @@ My Resume : <a href="https://drive.google.com/file/d/1Yc1od-LKNmgSPpPWsVaQVNDsLC
 
 <p align="center">
   <a href="https://github.com/bulkundeatharv/Quick-Poll">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=bulkundeatharv&repo=Quick-Poll&theme=tokyonight" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=bulkundeatharv407&repo=Trust-wallet-ui-ux-design&theme=tokyonight" />
   </a>
 </p>
