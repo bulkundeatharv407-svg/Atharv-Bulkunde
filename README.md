@@ -67,7 +67,7 @@ My Resume : <a href="https://drive.google.com/file/d/1Yc1od-LKNmgSPpPWsVaQVNDsLC
 ### ⬢ PROGRAMMING
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,kotlin" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java" />
 </p>
 
 <!-- TOOLS / DEV -->
@@ -75,7 +75,7 @@ My Resume : <a href="https://drive.google.com/file/d/1Yc1od-LKNmgSPpPWsVaQVNDsLC
 ### ⬢ TOOLS & DEV
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,nodejs,androidstudio,git,github,firebase,postgres" />
+  <img src="https://skillicons.dev/icons?i=vscode,nodejs,git,github,firebase" />
 </p>
 
 <!-- DESIGN -->
@@ -94,9 +94,8 @@ My Resume : <a href="https://drive.google.com/file/d/1Yc1od-LKNmgSPpPWsVaQVNDsLC
 
 ## 🛠 CURRENTLY BUILDING
 
-* 🚀 QuickPoll Backend
-* 🎨 My Anime Verse
-* 🌐 Portfolio Website → cinematic experience
+* 🚀 construction-management
+* 🎨 basic of HTML
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>
