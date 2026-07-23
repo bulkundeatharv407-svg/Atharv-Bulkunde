@@ -102,14 +102,14 @@ My Resume : <a href="https://drive.google.com/file/d/1Yc1od-LKNmgSPpPWsVaQVNDsLC
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>
 </p>
 
-## 🗄️ CORE LANGUAGE VAULT
+## 🗄️ Mini Projects
 
 <p align="center">
   <a href="https://github.com/VedantBakre/Fun-With-IOT">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=VedantBakre&repo=Fun-With-IOT&theme=tokyonight" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=bulkundeatharv407-svg&repo=EduTrack-Pro---Complete-College-Management-System&theme=tokyonight" />
   </a>
   <a href="https://github.com/VedantBakre/Python-Verse">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=VedantBakre&repo=Python-Verse&theme=tokyonight" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=bulkundeatharv407-svg&repo=construction-management&theme=tokyonight" />
   </a>
 </p>
 
